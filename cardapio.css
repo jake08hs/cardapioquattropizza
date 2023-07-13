@@ -1,0 +1,58 @@
+ .fundo {
+        background-image: url(https://c0.wallpaperflare.com/preview/839/412/980/food-and-drink-pizza-pizzas-tomato.jpg);
+        background-repeat: no-repeat;
+        background-size: 1500px 1350px;
+        font-size: 1.100em;
+        font-family: 'sans serif';
+   
+    }
+    .introducao {
+        color: white;
+        text-align: center;
+        text-decoration: dotted;
+        font-size: 30px;
+    }
+    .imagem-com-borda {
+        border: 2px solid #000;
+        border-radius: 30px;
+      }
+
+h1 {
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+
+.cardapio {
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.categoria {
+    color:white;
+    width: 45%;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
